@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Paloma Santos
 
 - 🔭 Hoje trabalho com contabilidade
+- 📚 Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando C#
 - 😄 Pronouns: ela/dela
 
